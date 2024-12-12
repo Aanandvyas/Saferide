@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:user_app/pages/drawer_screen.dart';
-import 'package:user_app/pages/home_page.dart';
 import 'package:user_app/pages/lastScreen.dart'; // Assuming HomePage exists
 import 'dart:async'; // For Future.delayed
 import 'package:url_launcher/url_launcher.dart'; // Import url_launcher package

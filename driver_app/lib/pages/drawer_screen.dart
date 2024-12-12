@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:http/http.dart' as http;
 import 'package:driver_app/models/user_ride_request_information.dart';
-import 'package:driver_app/widgets/progress_dialog.dart';
 
 class Destinationreach extends StatefulWidget {
   final UserRideRequestInformation rideRequestInfo;
