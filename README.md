@@ -488,4 +488,5 @@ accelerometerEvents.listen((AccelerometerEvent event) {
 ---
 
 ### Conclusion
-This usage flow demonstrates how **SafeRide** integrates multiple technologies, including **Flutter**, **Firebase**, and **Python**, to provide a seamless and efficient cab booking and safety experience. From registering and booking a ride to real-time tracking and safety features, **SafeRide** ensures that both drivers and passengers have a smooth and secure experience throughout the ride.
+This usage flow demonstrates how **SafeRide** integrates multiple technologies, including **Flutter**, **Firebase**, and **Python**, to provide a seamless and efficient cab booking and safety experience. From registering and booking a ride to real-time tracking and safety features, **SafeRide** ensures that both drivers and passengers have a smooth and secure experience throughout the ride.#   S a f e r i d e  
+ 
