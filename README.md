@@ -157,6 +157,15 @@ These APIs power the core functionalities of **SafeRide**, including real-time r
 
 ---
 
+## SnapShots
+
+![WhatsApp Image 2024-12-12 at 00 56 32_bfc58414](https://github.com/user-attachments/assets/75731d5d-99c1-4e74-bac1-777d485f495f)
+![WhatsApp Image 2024-12-12 at 00 59 27_6d126249](https://github.com/user-attachments/assets/be368e81-bc42-4f19-8429-a52822243052)
+![WhatsApp Image 2024-12-12 at 01 01 02_7fd41447](https://github.com/user-attachments/assets/dfad8723-5a59-4680-895c-01155a7d5d26)
+![WhatsApp Image 2024-12-12 at 01 05 24_0db24a66](https://github.com/user-attachments/assets/d543f2d1-c745-469d-8325-87bf91e5a3f4)
+![WhatsApp Image 2024-12-12 at 01 05 24_5c0c7a7a](https://github.com/user-attachments/assets/39267ada-66e4-4e3c-a60d-420ef6de81dc)
+![WhatsApp Image 2024-12-12 at 01 10 46_16bbc96d](https://github.com/user-attachments/assets/bd87dec1-c407-4d17-b6d1-d98af561d739)
+
 ## Setting Up SafeRide Locally
 
 To run **SafeRide** locally, follow these steps to set up the environment and run both the **Flutter frontend** and **Python backend** locally. Make sure you have the required software installed, such as Flutter, Python, and Firebase.
